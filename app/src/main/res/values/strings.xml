@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthorizationTest</string>
+    <string name="button_login">Войти</string>
+    <string name="def_text">Ха, интент не отработал норм</string>
+</resources>
